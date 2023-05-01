@@ -1,0 +1,11 @@
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\bin\Debug\net5.0\MkW_Models.deps.json
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\bin\Debug\net5.0\MkW_Models.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\bin\Debug\net5.0\ref\MkW_Models.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\bin\Debug\net5.0\MkW_Models.pdb
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\obj\Debug\net5.0\MkW_Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\obj\Debug\net5.0\MkW_Models.AssemblyInfoInputs.cache
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\obj\Debug\net5.0\MkW_Models.AssemblyInfo.cs
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\obj\Debug\net5.0\MkW_Models.csproj.CoreCompileInputs.cache
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\obj\Debug\net5.0\MkW_Models.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\obj\Debug\net5.0\ref\MkW_Models.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Models\obj\Debug\net5.0\MkW_Models.pdb

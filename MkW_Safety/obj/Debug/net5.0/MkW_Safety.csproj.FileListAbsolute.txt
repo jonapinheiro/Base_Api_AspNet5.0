@@ -1,0 +1,17 @@
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\bin\Debug\net5.0\MkW_Safety.deps.json
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\bin\Debug\net5.0\MkW_Safety.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\bin\Debug\net5.0\ref\MkW_Safety.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\bin\Debug\net5.0\MkW_Safety.pdb
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\bin\Debug\net5.0\MkW_Data.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\bin\Debug\net5.0\MkW_Models.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\bin\Debug\net5.0\MkW_Data.pdb
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\bin\Debug\net5.0\MkW_Models.pdb
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\obj\Debug\net5.0\MkW_Safety.csproj.AssemblyReference.cache
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\obj\Debug\net5.0\MkW_Safety.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\obj\Debug\net5.0\MkW_Safety.AssemblyInfoInputs.cache
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\obj\Debug\net5.0\MkW_Safety.AssemblyInfo.cs
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\obj\Debug\net5.0\MkW_Safety.csproj.CoreCompileInputs.cache
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\obj\Debug\net5.0\MkW_Safety.csproj.CopyComplete
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\obj\Debug\net5.0\MkW_Safety.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\obj\Debug\net5.0\ref\MkW_Safety.dll
+F:\Projeto_MarketWeb\MarketWeb_API\MkW_Safety\obj\Debug\net5.0\MkW_Safety.pdb
