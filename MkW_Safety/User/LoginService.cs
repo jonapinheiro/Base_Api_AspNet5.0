@@ -38,8 +38,8 @@ namespace MkW_Safety.User
 
             //////// TESTE ////////
             log.Id = 1;
-            log.Login = "jonapinheiro";
-            log.Senha = "Jcp74123698@";
+            log.Login = "jhonnyP";
+            log.Senha = "AbcDeGHij";
             log.MD5 = "SDFSD45648D989G8F9D9816";
             log.Type = 4;
             return log;
